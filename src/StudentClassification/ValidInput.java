@@ -17,6 +17,7 @@ public class ValidInput {
         }
     }
 
+
     public double checkMarks(String subject){
         while (true) {
             try {
